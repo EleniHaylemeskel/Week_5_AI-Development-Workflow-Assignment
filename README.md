@@ -186,7 +186,41 @@ Data preprocessing was the hardest due to messy, incomplete, and sensitive healt
 
 Use the prompt below in any diagram-generating tool:
 
-```<img width="1363" height="399" alt="Screenshot 2025-11-18 120532" src="https://github.com/user-attachments/assets/33ae3dbb-7df3-48c4-aa9d-44546fe76568" />```
+```
+Create a horizontal AI development workflow diagram with the following stages:
+1. **Start**
+2. **Problem Definition**
+- Define objectives
+- Identify stakeholders
+3. **Data Strategy**
+- Identify data sources
+- Address privacy and ethical issues
+4. **Data Preprocessing**
+- Cleaning
+- Handle missing values
+- Feature engineering
+- Train/validation/test split
+5. **Model Development**
+- Model selection
+- Training
+- Hyperparameter tuning
+- Confusion matrix
+6. **Model Evaluation**
+- Accuracy
+- Precision
+- Recall
+- Bias assessment
+7. **Deployment**
+- Integration into hospital systems
+- Monitoring for concept drift
+- Regulatory compliance
+8. **Continuous Improvement**
+- Error analysis
+- Retraining
+- Optimization
+9. **End**
+Use rounded rectangles, connectors, and subtle colors for each section.
+```
 
 ---
 
