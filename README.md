@@ -1,6 +1,6 @@
 # Week_5_AI-Development-Workflow-Assignment
 Understanding the AI Development Workflow
-# Student Dropout & Hospital Readmission Prediction Project
+## Student Dropout & Hospital Readmission Prediction Project
 
 This repository contains a complete end-to-end Machine Learning workflow covering two domains:
 1. **Education** – Predicting student dropout risk.
