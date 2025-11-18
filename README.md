@@ -186,8 +186,7 @@ Data preprocessing was the hardest due to messy, incomplete, and sensitive healt
 
 Use the prompt below in any diagram-generating tool:
 
-```<img width="1363" height="399" alt="Screenshot 2025-11-18 120532" src="https://github.com/user-attachments/assets/33ae3dbb-7df3-48c4-aa9d-44546fe76568" />
-```
+```<img width="1363" height="399" alt="Screenshot 2025-11-18 120532" src="https://github.com/user-attachments/assets/33ae3dbb-7df3-48c4-aa9d-44546fe76568" />```
 
 ---
 
